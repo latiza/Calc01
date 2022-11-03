@@ -1,0 +1,30 @@
+.mb-1 {
+    margin-bottom: 1rem;
+}
+
+#display {
+    background: lightblue;
+    padding: 10px;
+    border-radius: 10px;
+    border-style: outset;
+    font-size: 20px;
+}
+
+.container {
+    display: block;
+    max-width: 300px;
+    padding: 20px;
+    margin: auto;
+    background: grey;
+    border: 10px solid darkgrey;
+    border-radius: 20px;
+    border-style: outset;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 10px;
+    border-style: outset;
+}
